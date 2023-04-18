@@ -1,0 +1,6 @@
+:class FileSystem.Spec
+  :is Spec
+  :const describes: "FileSystem"
+
+  :it "has a placeholder method for demonstrating testing"
+    assert: FileSystem.placeholder == True
